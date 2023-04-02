@@ -3,10 +3,10 @@
     <title>Hi Ajay how  good evening..!!..How are ypu thi is my website please login and check!</title>
 </head>
 <body style="text-align: center">
-<h1> 8% offer on costumes..!! ..!!! ..Mahesh How are you today! check my website today</h1>
+<h1> 8% offer on costumes..!! ..!!! ..Jay How are you today! check my website today</h1>
 <img src="boxfuse.png">
 
-<h2>You have created the delivery job on web app----DevOps Monk --- #######adding from dev###!</h2>
+<h2>You have created the delivery job on web app----DevOps Jay --- #######adding from dev###!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
